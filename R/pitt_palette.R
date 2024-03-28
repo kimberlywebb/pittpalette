@@ -26,8 +26,9 @@ pitt_palettes <- list(
 #'   schemes are derived from \href{https://www.brand.pitt.edu/visual-identity/color-palettes-0}.
 #'   If omitted, uses all colors.
 #' @param name Name of color palette. Choices are:
-#'   \code{"primary_contemporary"}, \code{"primary_legacy"}, \code{"secondary"},
-#'   \code{"accent_rich"}, and \code{"accent_vibrant"}.
+#'   \code{"primary_contemporary"}, \code{"primary_legacy"}, \code{"primary"},
+#'   \code{"secondary"},
+#'   \code{"accent_rich"}, \code{"accent_vibrant"}, and \code{"accent"}.
 #' @importFrom graphics rect par image text
 #' @importFrom grDevices rgb
 #' @return A vector of colors.

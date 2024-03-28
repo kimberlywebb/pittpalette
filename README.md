@@ -14,8 +14,8 @@ library(pittpalette)
 Use the `names` function to view the available color palettes.
 ```r
 names(pitt_palettes)
-# [1] "primary_contemporary" "primary_legacy"    "secondary"       "accent_rich"         
-# [5] "accent_vibrant" 
+# [1] "primary_contemporary" "primary_legacy"     "primary"           "secondary"           
+# [5] "accent_rich"          "accent_vibrant"     "accent"   
 ```
 
 Call the palette using the `render_pitt_palette` function

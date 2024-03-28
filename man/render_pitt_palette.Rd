@@ -8,8 +8,9 @@ render_pitt_palette(name, n)
 }
 \arguments{
 \item{name}{Name of color palette. Choices are:
-\code{"primary_contemporary"}, \code{"primary_legacy"}, \code{"secondary"},
-\code{"accent_rich"}, and \code{"accent_vibrant"}.}
+\code{"primary_contemporary"}, \code{"primary_legacy"}, \code{"primary"},
+\code{"secondary"},
+\code{"accent_rich"}, \code{"accent_vibrant"}, and \code{"accent"}.}
 
 \item{n}{Number of colors desired. Most palettes have 3-6 colors. Most color
 schemes are derived from \href{https://www.brand.pitt.edu/visual-identity/color-palettes-0}.
