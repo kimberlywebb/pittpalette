@@ -10,7 +10,7 @@ devtools::install_github("kimberlywebb/pittpalette", ref="main")
 library(pittpalette)
 ```
 
-# Using the carnegiecolors package
+# Using the pittpalette package
 Use the `names` function to view the available color palettes.
 ```r
 names(pitt_palettes)
@@ -22,7 +22,7 @@ Call the palette using the `render_pitt_palette` function
 ```r
 render_pitt_palette("primary")
 ```
-![](classic.png)
+![](primary.png)
 
 View a subset of the accent color scheme
 ```r
