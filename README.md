@@ -30,7 +30,7 @@ render_pitt_palette("accent", 5)
 ```
 ![](accent.png)
 
-Use colors from `carnegie_palettes` in your graphs
+Use colors from `pitt_palettes` in your graphs
 ```r
 set.seed(1)
 hist(rnorm(n = 100, mean = 0, sd = 1), col = pitt_palettes[["primary_contemporary"]][1])
