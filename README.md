@@ -1,5 +1,5 @@
 # pittpalette
-Contains code for R package with R color palettes inspired by Carnegie Mellon University.
+Contains code for R package with R color palettes inspired by the University of Pittsburgh.
 Code adopted from the lovely `inauguration` R package by Cianna Bedford-Petersen, available [here](https://github.com/ciannabp/inauguration). 
 
 # R package installation
