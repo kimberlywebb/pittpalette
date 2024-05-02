@@ -35,8 +35,8 @@ pitt_palettes <- list(
 #' @export
 #' @keywords colors
 #' @examples
-#' render_carnegie_colors("classic")
-#' render_carnegie_colors("secondary", 5)
+#' render_pitt_colors("primary_contemporary")
+#' render_carnegie_colors("accent_vibrant", 3)
 render_pitt_palette <- function(name, n) {
 
   pal <- pitt_palettes[[name]]
